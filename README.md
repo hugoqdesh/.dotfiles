@@ -1,3 +1,3 @@
-# .dotfiles
+# Minimal Hyprland Configuration
 
-coming soon
+<img src='screenshot.png' />

@@ -1,0 +1,33 @@
+* {
+    border: none;
+    font-family: "JetBrainsMono", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    min-height: 0;
+}
+
+window#waybar {
+    background-color: black;
+    color: white;
+}
+
+#workspaces button {
+    color: white;
+    background: black;
+    box-shadow: none;
+    border-radius: 0;
+    transition: none;
+}
+
+#workspaces button.active {
+    background-color: white;
+    color: black;
+}
+
+#clock {
+    padding: 0 8px;
+}
+
+#clock {
+    background-color: black;
+    color: white;
+}
