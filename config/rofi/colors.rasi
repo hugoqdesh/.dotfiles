@@ -1,8 +1,11 @@
 * {
-    background: #080808;    /* Very dark gray, almost black */
-    prompt: #1a1a1a;       /* Dark gray */
-    border: #080808;       /* Medium-dark gray */
-    text: #ffffff;         /* Pure white */
-    stext: #808080;        /* Medium gray */
-    select: #1a1a1a;       /* Dark gray, matching prompt */
+	/* Theme Colors */
+	bg: 		#000000;
+	bg2: 		#444444;
+	
+	fg: 		#ffffff;
+	
+	
+	transparent: 	rgba(0,0,0,0);
+	black:		rgba(25,25,25,0.8);
 }
